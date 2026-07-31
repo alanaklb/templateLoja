@@ -1,0 +1,13 @@
+*{
+font-family: "Fredoka", sans-serif;
+}
+header{
+    background-color: #8C52FF;
+    color: white;
+}
+nav{
+    background-color:#9f72f8;
+}
+a:hover{
+    background-color:  #c4b0ec;
+}
