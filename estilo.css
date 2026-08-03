@@ -1,13 +1,19 @@
 *{
 font-family: "Fredoka", sans-serif;
 }
-header{
+header,.btn{
     background-color: #8C52FF;
     color: white;
 }
-nav{
+nav,.btn:hover{
     background-color:#9f72f8;
 }
-a:hover{
+a:hover,.card{
     background-color:  #c4b0ec;
 }
+img{
+    width:80%;
+    height:auto;
+    border-radius:2em;
+}
+
